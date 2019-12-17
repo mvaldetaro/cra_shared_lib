@@ -1,2 +1,3 @@
-# cra_shared_lib
- Exemplo de biblioteca de componentes não compilado
+# React Componentes compartilhados
+
+Exemplo de como compartilhar componentes react não compilados entre projetos, utilizando create-react-app, customize-cra e react-app-rewired.
